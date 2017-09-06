@@ -1,0 +1,12 @@
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\bin\Debug\netcoreapp1.1\FoundersCore.deps.json
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\bin\Debug\netcoreapp1.1\FoundersCore.runtimeconfig.json
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\bin\Debug\netcoreapp1.1\FoundersCore.runtimeconfig.dev.json
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\bin\Debug\netcoreapp1.1\FoundersCore.dll
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\obj\Debug\netcoreapp1.1\FoundersCore.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\obj\Debug\netcoreapp1.1\FoundersCore.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\obj\Debug\netcoreapp1.1\FoundersCore.AssemblyInfo.cs
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\obj\Debug\netcoreapp1.1\FoundersCore.Properties.Resources.resources
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\obj\Debug\netcoreapp1.1\FoundersCore.csproj.GenerateResource.Cache
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\bin\Debug\netcoreapp1.1\FoundersCore.pdb
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\obj\Debug\netcoreapp1.1\FoundersCore.dll
+C:\Users\Serg\Documents\FoundersCore\FoundersCore\obj\Debug\netcoreapp1.1\FoundersCore.pdb
